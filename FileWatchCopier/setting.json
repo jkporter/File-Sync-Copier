@@ -1,0 +1,8 @@
+﻿[
+    {
+        "watchDirectory": "D:\\Users\\Jonathan\\Documents\\UP-eBiz\\Web\\Nerium.Global.Web",
+        "destinationDirectory": "C:\\_web\\Nerium.Web\\Website",
+        "includeSubDirectories": true,
+        "filters": "*.css|*.cshtml|*.js"
+    }
+]
